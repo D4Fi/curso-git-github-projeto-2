@@ -10,6 +10,7 @@ cd nome-do-repositorio
 ```
 
 ## Passo 3: Criar um corpo de projeto simples
+Vamos criar um projeto simples. Neste caso, um projeto web com HTML, CSS e JavaScript.
 ```bash
 touch index.html style.css script.js
 ```
@@ -53,57 +54,20 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 ```
 
+## Passo 4: Verifique o conteúdo do repositório
+Agora, adicione, faça commit e envie suas alterações para o GitHub.
+```bash
+git add .
+git commit -m "Adicionado conteúdo"
+git push or git push origin main
+```
 
+# Resultado final
+![logo](./image-one.png)
 
+<hr>
 
+![logo](./image-two.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<hr>
 
